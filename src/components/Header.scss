@@ -1,0 +1,43 @@
+$blackground-color: #4b0082;
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+.logo {
+  background-color: $blackground-color;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: $blackground-color;
+  margin: 20px 20px;
+  align-items: center;
+  font-size: 2.5em;
+}
+
+.name {
+  font-size: 2em;
+  background-color: $blackground-color;
+}
+
+.logo img {
+  border-radius: 50px;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.menu {
+  cursor: pointer;
+  padding: 20px;
+  background-color: $blackground-color;
+}
+
+.menu span {
+  background-color: $blackground-color;
+}

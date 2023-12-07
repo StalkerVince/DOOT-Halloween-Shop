@@ -1,0 +1,35 @@
+.highlight {
+  text-align: center;
+  border: 2px solid #ed7f10;
+}
+
+.title {
+  text-align: center;
+  margin-top: 3%;
+  font-size: 2.5em;
+  text-decoration: underline;
+}
+
+.block {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid {
+  border: 2px solid #ed7f10;
+  text-align: center;
+}
+
+.stock {
+  font-weight: bold;
+  background-color: #4b0082;
+}
+
+img {
+  width: 20%;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+}
