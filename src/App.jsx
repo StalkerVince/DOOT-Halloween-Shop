@@ -33,7 +33,7 @@ const stockHalloween = [
     category: "cat",
   },
   {
-    name: "Gnome Lubrique",
+    name: "Nain Posteur",
     image:
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 69,
